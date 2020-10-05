@@ -3,7 +3,7 @@ name = input("What is your name? ")
 
 print("Hello, " + name, "time to play hangman!")
 
-print("Start guessing!!!!")
+print("Start guessing !!!!")
 
 word = "hangman"
 guesses = ''
